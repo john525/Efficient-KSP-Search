@@ -1,5 +1,5 @@
 # Efficient-KSP-Search
-Hunter College implementation of Single Source K Diverse Shortest Paths Algorithm, from the paper "Protein Fold Recognition Using a Modified Single Source K Diverse Shortest Paths Algorithm" (<a href="http://onlinelibrary.wiley.com/doi/10.1002/prot.24993/abstract" target="_target">http://onlinelibrary.wiley.com/doi/10.1002/prot.24993/abstract</a>).<br /><br />
+Hunter College implementation of Single Source K Diverse Shortest Paths Algorithm, from the paper "Protein Fold Recognition Using a Modified Single Source K Diverse Shortest Paths Algorithm" (http://onlinelibrary.wiley.com/doi/10.1002/prot.24993/abstract).<br /><br />
 
 Sample command:<br />
 <code>java -jar KSP.jar sample_graph.txt a 2 0.0 10 result.txt RLS imp1 P</code><br />
