@@ -395,7 +395,7 @@ public class Main {
 				score = 1.0-Math.log(Double.valueOf(info[2]))/Math.log(10.0);
 			}
 			g.addUndirectedEdge(name2Number.get(info[0].trim()), name2Number.get(info[1].trim()), score);
-			System.out.println((info[0].trim()) +"..."+ (info[1].trim()) +"..."+ score);
+//			System.out.println((info[0].trim()) +"..."+ (info[1].trim()) +"..."+ score);
 		}
 		
 		return g;
